@@ -20,3 +20,4 @@ for i in range(10000):
                 
 total_streaks = tails_streak + head_streak
 print(f'We have {total_streaks/100}% chance of having a streak.')
+#

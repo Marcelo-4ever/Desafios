@@ -144,3 +144,4 @@ chess_dictionary = {'a2':'bpawn', 'b2': 'bpawn', 'c2': 'bpawn', 'd2': 'bpawn', '
 isValidChessBoard(chess_dictionary)
 for grade in grafico_chess:
     print(grade)
+#

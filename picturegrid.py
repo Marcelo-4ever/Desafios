@@ -17,3 +17,4 @@ for i in range(len(grid)):
         print(grid[i][j].replace('.',' '), end='', flush=True)
         sleep(0.05)
     print()
+#

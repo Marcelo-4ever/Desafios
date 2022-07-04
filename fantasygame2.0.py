@@ -25,3 +25,4 @@ new_inv = ['gold coin', 'dagger', 'knife', 'wood', 'wood', 'wood', 'wood', 'wood
 
 addToInventory(inv, new_inv)
 displayInventory(inv)
+#

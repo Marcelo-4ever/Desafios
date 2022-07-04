@@ -10,3 +10,4 @@ def displayGame(x):
     print(f'Total number of items: {total}')
 game = {'Bronze coins': '25', 'Silver coins': '12', 'Gold coins':'4','torch': '6', 'Rope': '1', 'Sword': '0'}
 displayGame(game)
+#

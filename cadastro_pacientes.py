@@ -31,3 +31,4 @@ elif usuário not in pacientes:  # se o usuário não estiver na lista
 for paciente in pacientes:
     pacientes[0] = (cadastro,)  # queria trocar de lugar o nome, mas não funcionou
     print(paciente, end=", ")
+#
