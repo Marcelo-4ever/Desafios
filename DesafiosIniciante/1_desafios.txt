@@ -1,2 +1,0 @@
-1 - Fazer o jogo da forca
-2 - Uma lista com nomes de pacientes, a pessoa deve digitar o nome dela, se ela não for um paciente ela vai poder se cadastrar 
