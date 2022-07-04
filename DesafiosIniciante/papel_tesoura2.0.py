@@ -40,4 +40,4 @@ while True:
     continuar('restart', 'YN', 'One more? (Y/N) ')
     
     
-    
+#todo a segunda partida entra em loop infinito

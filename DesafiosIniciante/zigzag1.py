@@ -1,3 +1,4 @@
+#It's literally a zigzag
 from time import sleep
 def zizZag(): 
     while True:
@@ -13,6 +14,6 @@ def zizZag():
                         print(f"{' ' * j }{dots}")
                         sleep(0.2)
         except KeyboardInterrupt: 
-            print('Valeu por jogar irmão!')
+            print('Thanks for playing!')
             break
 zizZag()

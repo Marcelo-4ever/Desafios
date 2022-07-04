@@ -1,3 +1,4 @@
+
 def collatz(number):
     if number % 2 == 0:
         return number // 2
@@ -13,3 +14,5 @@ while True:
     except KeyboardInterrupt:
         print('\nSee ya! ')
         break
+    
+#todo verificar o enunciado do desafio

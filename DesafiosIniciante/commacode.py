@@ -20,5 +20,5 @@ def comma(my_list):
                 print(i)
 
 
-animals = []
+animals = ['fdsf','sfsdfsd','fsdfsd'] #-> esse exemplo ficou como: fsdf, fdsfds and sdfdsfds and -> tem que tirar esse último 'and'
 comma(animals)

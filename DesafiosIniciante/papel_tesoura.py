@@ -1,4 +1,4 @@
-#Rock, paper, scissor and the player choose how many times he wants to play 
+#Rock, paper, scissor and the player choose how many times he wants to play and is displayed on the screen the game that the player is playing "Game 1, Game 2, Game 3, etc.." 
 from random import choice
 from time import sleep  
 games = int(input('How many games? '))
