@@ -18,11 +18,12 @@
 > Esse desafio consiste em recriar o jogo Pedra, Papel e Tesoura onde o usuário irá escolher quantas partidas irá jogar e após isso escolher uma opção e a máquina irá escolher outra. Assim que o usuário clicar em *enter* será mostrado a mensagem de vitória, derrota ou empate. 
 ---
 ## **Cadastrar pacientes**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/DesafiosIniciante/cadastro_pacientes.py)       
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/106fb1a06f4de02c4f188efdfe7de9a88d59e43e/cadastro_pacientes.py)       
 
 ---                                                                        
 ## **Validando Peças de Xadrez**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/DesafiosIniciante/chessdictionary.py)                             
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/DesafiosIniciante/chessdictionary.py)  
+                           
 
 ---
 
