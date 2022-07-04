@@ -19,7 +19,7 @@
 ---
 ## **Cadastrar pacientes**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/106fb1a06f4de02c4f188efdfe7de9a88d59e43e/cadastro_pacientes.py)                       
-> Nesse desafio você terá uma lista com alguns pacientes e o usuário irá digitar um nome - Não importa se for em *MAIÚSCULO* ou *minúsculo* -, e caso o nome não esteja na lista ele vai precisar reescrever o nome. Com isso feito o nome será adicionado a lista e cada valor da lista será mostrado entre vírgulas na tela. Se o nome já está na lista mostre uma mensagem de já cadastrado e em seguida todos os valores da lista entre vírgulas.
+> Nesse desafio você terá uma lista com alguns pacientes e o usuário irá digitar um nome - Não importa se for em *MAIÚSCULO* ou *minúsculo* -, e caso o nome não esteja na lista ele vai precisar reescrevê-lo. Com isso feito o nome será adicionado a lista e cada valor nela será mostrado entre vírgulas na tela. Se o nome já está na lista mostre uma mensagem de já cadastrado e em seguida todos os valores da lista entre vírgulas.
 ---                                                                        
 ## **Validando Peças de Xadrez**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/DesafiosIniciante/chessdictionary.py)  
