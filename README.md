@@ -14,7 +14,7 @@
 
 ---
 ## **Pedra Papel Tesoura**                    
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/papel_tesoura.py)  
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/papel_tesoura.py)  
 > Esse desafio consiste em recriar o jogo Pedra, Papel e Tesoura onde o usuário irá escolher quantas partidas irá jogar e após isso escolher uma opção e a máquina irá escolher outra. Assim que o usuário clicar em *enter* será mostrado a mensagem de vitória, derrota ou empate. 
 ---
 ## **Cadastrar pacientes**
@@ -28,24 +28,24 @@
 ---
 
 ## **Coin Flip Streak**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/DesafiosIniciante/coinflip.py)                                     
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/coinflip.py)                                     
 
 ---
 
 ## **Fantasy Game**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/fantasygame.py)  
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame.py)  
 
 ---
 ## **Fantasy Game**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/fantasygame2.0.py)
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame2.0.py)
 
 ---
 
 ## **Picture Grid**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/picturegrid.py)  
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/picturegrid.py)  
 
 ---
 
 ## **Zig Zag**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/zigzag1.py)
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/zigzag1.py)
 
