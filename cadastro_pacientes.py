@@ -7,12 +7,13 @@ pacientes = [
     "VERA SILVA",
     "FERNANDA AMORIM",
 ]
-usuário = str(input("Nome: ")).strip().upper()  # nome do  pacinete
+usuário = str(input("Nome: ")).strip().upper()  # nome do  paciente
+cadastro = ' '
 if usuário in pacientes:  # se o usuário estiver na lista
     print("Esse nome já foi cadastrado!")
 elif usuário not in pacientes:  # se o usuário não estiver na lista
     cadastro = (
-        str(input("Esse nome não foi cadastrado.Para se cadastrar digite seu nome: "))
+        str(input("Esse nome não está cadastrado. Para cadastrá-lo digite novamente: "))
         .strip()
         .upper()
     )
@@ -25,10 +26,11 @@ elif usuário not in pacientes:  # se o usuário não estiver na lista
         print("Pronto! A senhora foi cadastrada!")
     else:
         sexo = str(input("Sexo: [M/F] "))  # deve precisar fazer um loop pra funcionar
-    pacientes += (
-        cadastro,
-    )  # acrescenta uma tupla(precisa da vírgula pro python entender) a outra tupla
+    pacientes += (cadastro,)  # acrescenta uma tupla(precisa da vírgula pro python entender) a outra tupla
 for paciente in pacientes:
-    pacientes[0] = (cadastro,)  # queria trocar de lugar o nome, mas não funcionou
-    print(paciente, end=", ")
+    if paciente == pacientes[-1]:
+        print(paciente)
+    else:
+        pacientes[0] = (cadastro,)  # queria trocar de lugar o nome, mas não funcionou
+        print(paciente, end=", ")
 #
