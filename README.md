@@ -43,12 +43,35 @@
 ---
 ## **Inventário 2**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame2.0.py)
+> Esse se parece bastante com o anterior, o output vai ser o mesmo, a diferença é que agora serão criados um dicionário com os itens e suas quantidades e uma lista com itens que vão ser adicionados. Se o item a ser adicionado já estiver no seu dicionário a sua quantidade irá aumentar +1, porém, se o item não estiver no dicionário ele será adicionado e com a quantidade 1 - caso ele apareça para ser adicionado novamente será somado +1 em sua quantidade. Exemplo:
+```python
+Input
+listaPrincipal = {'moeda de bronze' : 2, 'garrafa de água': 1}
+itensParaAdicionar = ['moeda de bronze', 'metal', 'metal']
+
+Output
+3 moeda de bronze
+1 garrafa de água
+2 metal
+```
 
 ---
 
 ## **Picture Grid**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/picturegrid.py)  
-
+> Nós temos um grid(grade) de tantas x linhas e y colunas. 
+```Python
+grid =[['o','o','o','.','.','o','o','o'],
+       ['o','o','o','.','.','o','o','o'],
+       ['o','o','o','.','.','o','o','o']]
+```
+> Nós precisamos criar um loop que passe por todas as elementos e os imprima dessa forma na tela:
+```
+ooo..ooo
+ooo..ooo
+ooo..ooo
+```
+>Dica: para passar em cada elemento de cada lista você pode usar um loop junto de `grid[a][b]`
 ---
 
 ## **Zig Zag**
