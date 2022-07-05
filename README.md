@@ -31,7 +31,7 @@
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame.py)  
 > Você criará um inventário com um objeto *ou qualquer outra coisa* e a sua determinada quantidade, ou seja, um key-pair value que usamos nos dicionários. Após isso, usando sua lógica, seu código precisa aparecer na tela da seguinte maneira: 
 ```python
- `Inventário`:
+ Inventário:
  25 moedas de bronze
  15 moedas de prata
  4 moedas de ouro
