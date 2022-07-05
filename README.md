@@ -41,7 +41,7 @@
 
 
 ---
-## **Inventário**
+## **Inventário 2**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame2.0.py)
 
 ---
