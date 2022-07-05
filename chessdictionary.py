@@ -140,7 +140,7 @@ def isValidChessBoard(chess):
 
 
 #*Principal Program
-chess_dictionary = {'a2':'bpawn', 'b2': 'bpawn', 'c2': 'bpawn', 'd2': 'bpawn', 'e2': 'bpawn', 'f2': 'bpawn', 'g2': 'bpawn', 'h2': 'bpawn', 'a1':'brook', 'h1':'brook','b1':'bknight', 'g1':'bknight', 'c1':'bbishop', 'f1':'bbishop', 'd1':'bqueen', 'e1':'bking', 'a7':'wpawn', 'b7': 'wpawn', 'c7': 'wpawn', 'd7': 'wpawn', 'e7': 'wpawn', 'f7': 'wpawn', 'g7': 'wpawn', 'h7': 'wpawn', 'a8':'wrook', 'h8':'wrook','b8':'wknight', 'g8':'wknight', 'c8':'wbishop', 'f8':'wbishop', 'd8':'wqueen', 'e8':'wking'}
+chess_dictionary = {'a42':'bpawn', 'b2': 'bpawn', 'c2': 'bpawn', 'd2': 'bpawn', 'e2': 'bpawn', 'f2': 'bpawn', 'g2': 'bpawn', 'h2': 'bpawn', 'a1':'brook', 'h1':'brook','b1':'bknight', 'g1':'bknight', 'c1':'bbishop', 'f1':'bbishop', 'd1':'bqueen', 'e1':'bking', 'a7':'wpawn', 'b7': 'wpawn', 'c7': 'wpawn', 'd7': 'wpawn', 'e7': 'wpawn', 'f7': 'wpawn', 'g7': 'wpawn', 'h7': 'wpawn', 'a8':'wrook', 'h8':'wrook','b8':'wknight', 'g8':'wknight', 'c8':'wbishop', 'f8':'wbishop', 'd8':'wqueen', 'e8':'wking'}
 isValidChessBoard(chess_dictionary)
 for grade in grafico_chess:
     print(grade)
