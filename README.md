@@ -46,7 +46,7 @@
 > Esse se parece bastante com o anterior, o output vai ser o mesmo, a diferença é que agora serão criados um dicionário com os itens e suas quantidades e uma lista com itens que vão ser adicionados. Se o item a ser adicionado já estiver no seu dicionário a sua quantidade irá aumentar +1, porém, se o item não estiver no dicionário ele será adicionado e com a quantidade 1 - caso ele apareça para ser adicionado novamente será somado +1 em sua quantidade. Exemplo:
 ```python
 Input
-listaPrincipal = {'moeda de bronze' : 2, 'garrafa de água': 1}
+itemPrincipal = {'moeda de bronze' : 2, 'garrafa de água': 1}
 itensParaAdicionar = ['moeda de bronze', 'metal', 'metal']
 
 Output
