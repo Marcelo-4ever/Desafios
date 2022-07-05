@@ -14,11 +14,11 @@
 ---
 ## **Pedra Papel Tesoura**                    
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/papel_tesoura.py)  
-> Esse desafio consiste em recriar o jogo Pedra, Papel e Tesoura onde o usuário irá escolher quantas partidas irá jogar e após isso escolher uma opção e a máquina irá escolher outra. Assim que o usuário clicar em *enter* será mostrado a mensagem de vitória, derrota ou empate. 
+> Esse desafio consiste em recriar o jogo Pedra, Papel e Tesoura onde o usuário irá escolher quantas partidas irá jogar, após isso ele deve escolher uma opção entre pedra, papel ou tesoura e a máquina também(óbvio que a escolha dela não será mostrada na tela). Assim que o usuário clicar na tecla *enter* será mostrada a mensagem de vitória, derrota ou empate. 
 ---
 ## **Cadastrar pacientes**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/106fb1a06f4de02c4f188efdfe7de9a88d59e43e/cadastro_pacientes.py)                       
-> Nesse desafio você terá uma lista com alguns pacientes e o usuário irá digitar um nome - Não importa se for em *MAIÚSCULO* ou *minúsculo* -, e caso o nome não esteja na lista ele vai precisar reescrevê-lo. Com isso feito o nome será adicionado a lista e cada valor nela será mostrado entre vírgulas na tela. Se o nome já está na lista mostre uma mensagem de já cadastrado e em seguida todos os valores da lista entre vírgulas.
+> Nesse desafio você terá uma lista com alguns pacientes e o usuário irá digitar um nome - Não importa se for em *MAIÚSCULO* ou *minúsculo* -, e caso o nome não esteja na lista ele vai precisar reescrevê-lo. Com isso feito o nome será adicionado à lista e cada valor nela será mostrado entre vírgulas na tela. Se o nome já está na lista mostre uma mensagem de já cadastrado e em seguida todos os valores da lista entre vírgulas.
 
 ---                                                                        
 ## **Coin Flip Streak**
@@ -43,7 +43,7 @@
 ---
 ## **Inventário 2**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/fantasygame2.0.py)
-> Esse se parece bastante com o anterior, o output vai ser o mesmo, a diferença é que agora serão criados um dicionário com os itens e suas quantidades e uma lista com itens que vão ser adicionados. Se o item a ser adicionado já estiver no seu dicionário a sua quantidade irá aumentar +1, porém, se o item não estiver no dicionário ele será adicionado e com a quantidade 1 - caso ele apareça para ser adicionado novamente será somado +1 em sua quantidade. Exemplo:
+> Esse se parece bastante com o anterior - o output vai ser o mesmo -, a diferença é que agora serão criados um dicionário com os itens e suas quantidades e uma lista com itens que vão ser adicionados. Se o item a ser adicionado já estiver no seu dicionário a sua quantidade irá aumentar +1, porém, se o item não estiver no dicionário ele será adicionado com quantidade 1 - caso ele apareça para ser adicionado novamente será somado +1 em sua quantidade. Exemplo:
 ```python
 Input
 itemPrincipal = {'moeda de bronze' : 2, 'garrafa de água': 1}
@@ -59,7 +59,7 @@ Output
 
 ## **Picture Grid**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/picturegrid.py)  
-> Nós temos um grid(grade) de tantas x linhas e y colunas. 
+> Nós temos um grid(grade) de x linhas e y colunas. 
 ```Python
 grid =[['o','o','o','.','.','o','o','o'],
        ['o','o','o','.','.','o','o','o'],
