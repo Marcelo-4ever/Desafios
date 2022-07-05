@@ -6,8 +6,8 @@
 [01 - Pedra, Papel e Tesoura](#pedra-papel-tesoura)         
 [02 - Cadastrar Pacientes](#cadastrar-pacientes)                    
 [03 - Coin Flip Streak](#coin-flip-streak)              
-[04 - Inventário](#fantasy-game)              
-[05 - Inventário 2](#fantasy-game-1)              
+[04 - Inventário](#inventário)              
+[05 - Inventário 2](#inventário-2)              
 [06 - Picture Grid](#picture-grid)          
 [07 - Zig Zag](#zig-zag)
 
