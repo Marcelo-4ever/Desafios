@@ -93,5 +93,5 @@ ooo..ooo
 ## **Validar CPF**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/validar_cpf_regex.py)
 > Esse validador é feito de uma maneira super simples com o uso de uma regular expression ou regex. 
---
+---
 //sempre em desenvolvimento
