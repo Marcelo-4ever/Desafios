@@ -9,8 +9,8 @@
 [04 - Inventário](#inventário)              
 [05 - Inventário 2](#inventário-2)              
 [06 - Picture Grid](#picture-grid)          
-[07 - Zig Zag](#zig-zag)                                                                                                                                           [08 - Validador de CPF](#validar-CPF)
-
+[07 - Zig Zag](#zig-zag)                                                                                                                                          
+[08 - Validador de CPF](#validar-CPF)
 ---
 ## **Pedra Papel Tesoura**                    
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/papel_tesoura.py)  
