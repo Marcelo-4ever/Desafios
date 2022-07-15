@@ -11,7 +11,9 @@
 [06 - Picture Grid](#picture-grid)          
 [07 - Zig Zag](#zig-zag)       
 [08 - Validador de CPF](#validar-CPF)           
+[10 - Validador de CPF 2](#validar-CPF-2)    
 [09 - Jogo da Forca](#jogo-da-forca)
+
 
 ---
 
@@ -28,6 +30,7 @@
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/coinflip.py)                                     
 > Esse desafio - como muitos outros dessa lista - vem diretamente do livro *[Automate Boring Stuffs with Python](https://automatetheboringstuff.com/)*. Ele funciona assim: você terá um moeda que irá cair em cara ou coroa 100 vezes de maneira aleatória e isso vai se repetir por 10 mil vezes. Você precisa ver quantas *streaks¹* acontecem no total. Depois disso ver a chance de uma streak acontecer em porcentagem(%).
 1. Streaks são uma sequência de algo, nesse desafio a sequência precisa ser cara ou coroa 6 vezes, ou seja, se acontecer da moeda "cair" em: cara, cara, cara, cara, cara, cara -> isso forma 1 streak
+
 ---
 
 ## **Inventário**
@@ -98,9 +101,42 @@ ooo..ooo
 > Esse validador é feito de uma maneira super simples com o uso de uma regular expression ou regex.
 ---
 
+## **Validar CPF 2**
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/validar_cpf.py)
+> Esse é um validador um pouco melhor que o anterior e não é feito com o uso de regular expression. 
+
+1. Ele faz a cópia dos 9 primeiros dígitos de um CPF qualquer colocando em uma outra variável. 
+2. Faz a multiplicação do índice 0 até o 8 por 10, 9... até chegar no 2.  
+  ```
+  cpf = '18445895212'
+  copia_cpf = '184458952'
+  copia_cpf[0] * 10, copia_cpf[1] * 9, copia_cpf[2] * 8...
+  ```
+3. Cada produto, resultado da multiplicação, é somado a uma variável que irá guardar o total de *todas* multiplicações.
+4. Com esse total vamos descobrir o penúltimo dígito do CPF usando a seguinte fórmula: `11 - (total % 11)`
+5. Se a fórmula der um resultado maior que 9, será acrescentado um `0` como penúltimo valor.
+6. Se o resultado for menor que 9 a própria resposta será adicionado como penúltimo valor. 
+``` py
+# vamos imaginar a resposta sendo maior que 12
+copia_cpf = '184458952'
+fórmula = 11 - (total % 11) 
+# agora o CPF será:
+copia_cpf = '1844589520'
+
+#agora com a resposta sendo 9
+copia_cpf = '184458952'
+fórmula = 11 - (total % 11) 
+# agora o CPF será:
+copia_cpf = '1844589529'
+
+```
+Agora todo esse passo a passo deve acontecer de novo para encontrar o último dígito do CPF, mas ao invés da multiplicação começar em 10 e terminar em 2, ela precisa começar em 11 e terminar em 2, por causa do índice a mais.  
+
+---
 ## **Jogo da Forca**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/jogo-da-forca.py)
 > Um jogo da forca onde você escolhe o tema das palavras(profissões, animais ou aleatório) e pode errar até 6 vezes. Caso repita uma letra - certa ou errada - você não perderá uma chance, irá continuar com a mesma quantidade até errar uma letra que ainda não foi usada.
+
 
 
 
