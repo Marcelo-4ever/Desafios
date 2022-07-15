@@ -11,8 +11,8 @@
 [06 - Picture Grid](#picture-grid)          
 [07 - Zig Zag](#zig-zag)       
 [08 - Validador de CPF](#validar-CPF)           
-[10 - Validador de CPF 2](#validar-CPF-2)    
-[09 - Jogo da Forca](#jogo-da-forca)
+[09 - Validador de CPF 2](#validar-CPF-2)    
+[10 - Jogo da Forca](#jogo-da-forca)
 
 
 ---
