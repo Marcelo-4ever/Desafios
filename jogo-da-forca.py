@@ -11,7 +11,7 @@ while True:
         continue
     if int(tema) > 3 or int(tema) <= 0:
         continue
-    if tema: # Se for um número e é menor que 3, o loop acaba
+    if tema: # Se for 1, 2 ou 3, o loop acaba
         break
     
         
