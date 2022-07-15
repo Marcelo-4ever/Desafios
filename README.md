@@ -9,10 +9,12 @@
 [04 - Inventário](#inventário)              
 [05 - Inventário 2](#inventário-2)              
 [06 - Picture Grid](#picture-grid)          
-[07 - Zig Zag](#zig-zag)                                                                                                                                          
+[07 - Zig Zag](#zig-zag)       
 [08 - Validador de CPF](#validar-CPF)
+[09 - Jogo da Forca](#jogo-da-forca)
 
 ---
+
 ## **Pedra Papel Tesoura**                    
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/66070292898187eec0b0614f11bbdc1b538cc634/papel_tesoura.py)  
 > Esse desafio consiste em recriar o jogo Pedra, Papel e Tesoura onde o usuário irá escolher quantas partidas irá jogar, após isso ele deve escolher uma opção entre pedra, papel ou tesoura e a máquina também(óbvio que a escolha dela não será mostrada na tela). Assim que o usuário clicar na tecla *enter* será mostrada a mensagem de vitória, derrota ou empate. 
@@ -93,6 +95,15 @@ ooo..ooo
 ---
 ## **Validar CPF**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/validar_cpf_regex.py)
-> Esse validador é feito de uma maneira super simples com o uso de uma regular expression ou regex. 
+> Esse validador é feito de uma maneira super simples com o uso de uma regular expression ou regex.
 ---
+
+## **Jogo da Forca**
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/jogo-da-forca.py)
+> Um jogo da forca onde você escolhe o tema das palavras(profissões, animais ou aleatório) e pode errar até 6 vezes. Caso repita uma letra - certa ou errada - você não perderá uma chance, irá continuar com a mesma quantidade até errar uma letra que ainda não foi usada.
+
+
+
+
+
 //sempre em desenvolvimento
