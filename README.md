@@ -10,9 +10,10 @@
 [05 - Inventário 2](#inventário-2)              
 [06 - Picture Grid](#picture-grid)          
 [07 - Zig Zag](#zig-zag)       
-[08 - Validador de CPF](#validar-CPF)           
-[09 - Validador de CPF 2](#validar-CPF-2)    
-[10 - Jogo da Forca](#jogo-da-forca)
+[08 - Jogo da Forca](#jogo-da-forca)
+[09 - Validador de CPF](#validar-CPF)           
+[10 - Validador de CPF 2](#validar-CPF-2)    
+[11 - Gerador de CPF](#gerador-de-CPF)
 
 
 ---
@@ -95,6 +96,13 @@ ooo..ooo
 ........
   ........
 ```
+
+---
+
+## **Jogo da Forca**
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/jogo-da-forca.py)
+> Um jogo da forca onde você escolhe o tema das palavras(profissões, animais ou aleatório) e pode errar até 6 vezes. Caso repita uma letra - certa ou errada - você não perderá uma chance, irá continuar com a mesma quantidade até errar uma letra que ainda não foi usada.
+
 ---
 ## **Validar CPF**
 [Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/validar_cpf_regex.py)
@@ -133,9 +141,7 @@ copia_cpf = '1844589529'
 Agora todo esse passo a passo deve acontecer de novo para encontrar o último dígito do CPF, mas ao invés da multiplicação começar em 10 e terminar em 2, ela precisa começar em 11 e terminar em 2, por causa do índice a mais.  
 
 ---
-## **Jogo da Forca**
-[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/jogo-da-forca.py)
-> Um jogo da forca onde você escolhe o tema das palavras(profissões, animais ou aleatório) e pode errar até 6 vezes. Caso repita uma letra - certa ou errada - você não perderá uma chance, irá continuar com a mesma quantidade até errar uma letra que ainda não foi usada.
+
 
 
 
