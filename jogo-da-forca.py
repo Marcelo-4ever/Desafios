@@ -1,4 +1,4 @@
-# hangman
+# hangman 
 from random import choice
 
 while True:
@@ -9,7 +9,7 @@ while True:
     -> '''))
     if not tema.isdigit(): #validar se é um número
         continue
-    if int(tema) > 3:
+    if int(tema) > 3 or int(tema) <= 0:
         continue
     if tema: # Se for um número e é menor que 3, o loop acaba
         break
