@@ -115,7 +115,7 @@ ooo..ooo
 3. Cada produto, resultado da multiplicação, é somado a uma variável que irá guardar o total de *todas* multiplicações.
 4. Com esse total vamos descobrir o penúltimo dígito do CPF usando a seguinte fórmula: `11 - (total % 11)`
 5. Se a fórmula der um resultado maior que 9, será acrescentado um `0` como penúltimo valor.
-6. Se o resultado for menor que 9 a própria resposta será adicionado como penúltimo valor. 
+6. Se o resultado for menor ou igual 9 a própria resposta será adicionado como penúltimo valor. 
 ``` py
 # vamos imaginar a resposta sendo maior que 12
 copia_cpf = '184458952'
