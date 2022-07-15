@@ -10,7 +10,7 @@
 [05 - Inventário 2](#inventário-2)              
 [06 - Picture Grid](#picture-grid)          
 [07 - Zig Zag](#zig-zag)       
-[08 - Jogo da Forca](#jogo-da-forca)
+[08 - Jogo da Forca](#jogo-da-forca)              
 [09 - Validador de CPF](#validar-CPF)           
 [10 - Validador de CPF 2](#validar-CPF-2)    
 [11 - Gerador de CPF](#gerador-de-CPF)
@@ -142,7 +142,12 @@ Agora todo esse passo a passo deve acontecer de novo para encontrar o último d�
 
 ---
 
-
+# **Gerador de CPF**
+[Link para arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/gerador_de_cpf.py)
+>Para esse gerador de CPF usamos como base o código de desafio anterior, Validar CPF 2. Esse funciona da seguinte forma: 
+1. Um input para perguntar a quantidade de CPF's que serão criados
+2. Os primeiros 9 dígitos são criados de maneira aleatória.
+3. Agora, se já temos os 9 dígitos, já podemos colocar no código para validar CPF, onde será adicionado os 2 dígitos restantes. 
 
 
 
