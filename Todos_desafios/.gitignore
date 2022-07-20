@@ -1,4 +1,5 @@
 calculator.py
+chessdictionary.py
 collatzsequence.py
 commacode.py
 conwaysgame.py
@@ -8,4 +9,4 @@ papel_tesoura2.0.py
 snake_game.py
 zigzag0.py
 zzz.py
-chessdictionary.py
+
