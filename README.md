@@ -15,7 +15,9 @@
 [08 - Jogo da Forca](#jogo-da-forca)              
 [09 - Validador de CPF](#validar-CPF)           
 [10 - Validador de CPF 2](#validar-CPF-2)    
-[11 - Gerador de CPF](#gerador-de-CPF)
+[11 - Gerador de CPF](#gerador-de-CPF)                                                                   
+[12 - Adivinhe o Número](#adivinhe-o-número)
+
 
 
 ##
@@ -161,7 +163,7 @@ Agora todo esse passo a passo deve acontecer de novo para encontrar o último d�
 ##
 
 # **Adivinhe o Número**
-[Link para o arquivo]()
+[Link para o arquivo](https://github.com/Marcelo-4ever/Desafios/blob/main/guessTheNumber.py)
 >  Esse desafio consiste em:
 1. O programa escolher um valor random de 0 a 10
 2. O usuário dizer quantas vezes quer jogar 
